@@ -9,7 +9,7 @@
 # you'll amass, the slower it'll run and the greater likelihood for issues).
 #
 # It's strongly recommended that you check this file into your version control system.
-
+#Dillon is weeny
 ActiveRecord::Schema.define(version: 20160809174657) do
 
   create_table "actors", force: :cascade do |t|
